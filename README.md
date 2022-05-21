@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @J-Jillian
 - 👀 I’m interested in Web development & UX Desing
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on interesting proyects
 - 📫 How to reach me judith.mediosdigitales@gmail.com
 
